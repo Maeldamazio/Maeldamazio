@@ -1,5 +1,6 @@
 # Olá, eu sou o Ismael Damazio 👋
 
+
 **`Desenvolvedor FullStack 💻`**
 
 ##### Sou apaixonado por tecnologia e desenvolvimento de software. Estudei Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar, onde aprimorei meus conhecimentos em programação, arquitetura de software e banco de dados.
@@ -10,14 +11,11 @@
 
 ##### Meu objetivo é continuar evoluindo na área, aprendendo novas tecnologias e contribuindo para projetos inovadores. 🚀
 
-<br>
+<br></br>
 
-💻 OS
-<div style="display: inline_block">
-  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-</div><br/>
+
+
 
 ---
 
@@ -30,10 +28,17 @@
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
- 
 </div><br/>
 
+</div><br/>
+
+💻 OS
+<div style="display: inline_block">
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+<br></br>
 
 ### 📊 Estatísticas
 
@@ -46,6 +51,9 @@
     src="https://github-readme-stats.vercel.app/api?username=Maeldamazio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+<br></br>
+<br></br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maeldamazio/Maeldamazio/output/github-contribution-grid-snake-dark.svg">
