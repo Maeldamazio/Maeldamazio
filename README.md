@@ -2,6 +2,7 @@
 
 
 ![Maeldamazio GitHub stats](https://github-readme-stats.vercel.app/api?username=Maeldamazio&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maeldamazio&hide_progress=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maeldamazio/Maeldamazio/output/github-contribution-grid-snake-dark.svg">
